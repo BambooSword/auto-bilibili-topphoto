@@ -79,7 +79,7 @@ async function painting(){
     clearCanvas();
 
     //添加背景图
-    const bgImage = await loadImage('bg.jpg');
+    const bgImage = await loadImage('my_bg.png');
     ctx.drawImage(bgImage, 0, 0, canvasSize.w, canvasSize.h);
 
     //设置文字颜色和字号，字体
@@ -91,8 +91,8 @@ async function painting(){
 
     //计算文字尺寸
     let size = ctx.measureText(days);
-    const txt_x = 2020;
-    const txt_y = 135;
+    const txt_x = 2108;
+    const txt_y = 190;
 
     //转换后续的transform的基点
     ctx.translate(txt_x, txt_y);
@@ -105,7 +105,7 @@ async function painting(){
     e	水平移动绘图
     f	垂直移动绘图
     */
-    ctx.transform(1,-0.3,0,1,0,0);
+    // ctx.transform(1,-0.3,0,1,0,0);
 
     //将文字绘制到指定坐标
     ctx.fillText(days, -size.width/2, 0);

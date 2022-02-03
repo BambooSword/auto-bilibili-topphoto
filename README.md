@@ -2,10 +2,9 @@
 
 <p>
 
-[![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D422646817)](https://space.bilibili.com/422646817)
-[![Juejin](https://img.shields.io/badge/juejin-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-1e80ff?logo=bytedance)](https://juejin.cn/user/4010632618185038)
-[![Github Stars](https://img.shields.io/github/stars/ezshine?color=faf408&label=github%20stars&logo=github)](https://github.com/ezshine)
-[![Wechat](https://img.shields.io/badge/-%E5%A4%A7%E5%B8%85%E8%80%81%E7%8C%BF-07c160?logo=wechat&logoColor=white&label=wechat)](https://open.weixin.qq.com/qr/code?username=ezfullstack)
+[![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D240041813)](https://space.bilibili.com/240041813)
+[![Juejin](https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjuejin-%25E7%25AB%25B9%25E5%2589%2591-1e80ff%3Flogo%3Dbytedance)](https://juejin.cn/user/2735240659342136)
+[![Github Stars](https://img.shields.io/github/stars/BambooSword?color=faf408&label=github%20stars&logo=github)](https://github.com/ezshine)
   
 </p>
 
